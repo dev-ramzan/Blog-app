@@ -1,4 +1,4 @@
-# clean_architecture_app
+# blog_app
 
 A new Flutter project.
 
